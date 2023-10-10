@@ -59,5 +59,5 @@ print result.data
 ### 7. Re-testing the Application
 - Re-ran the application with various test cases to ensure the corrected code now provides the expected and accurate matrix multiplication output.
 
-## Corrective Action
+## Conclusion
 The matrix multiplication logic was corrected by ensuring that the products of the respective elements were accumulated instead of being overwritten. This was achieved by altering the assignment operation to accumulate the values.
